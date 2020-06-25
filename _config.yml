@@ -1,15 +1,15 @@
 actors:
   alice:
-    image_url: https://twitter.com/n_hgc36/photo
-    name: naoya
-    url: http://twitter.com/n_hgc36
+    image_url: /images/actors/alice.png
+    name: alice
+    url: http://sns.example.com/alice
   bob:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
 author: alice
-description: OSYABERI-BOOKSの活動や読んだ本，輪読会のまとめなどをゆるく発信しています．
-description_long: OSYABERI-BOOKSの活動や読んだ本，輪読会のまとめなどをゆるく発信しています．
+description: Example description
+description_long: Example long description
 email: info@example.com
 exclude:
   - docker
@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: ob-books
+hashtag: examplehashtag
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: OSYABERI BOOKS
+title: Example title
 url: http://example.com
