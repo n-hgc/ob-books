@@ -1,16 +1,16 @@
 actors:
   alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
+    image_url: https://twitter.com/n_hgc36/photo
+    name: nhgc
+    url: https://twitter.com/n_hgc36
   bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+    image_url: https://twitter.com/Sony_Shimmei/photo
+    name: shinmei
+    url: https://twitter.com/Sony_Shimmei
+author: nhgc
+description: OSYABERI BOOKSの活動や読んだ本、輪読会のまとめなどをゆるく発信しています。
+description_long: OSYABERI BOOKSは、サラリーマン・博士・AIエンジニアなど様々なバックグラウンドの人がテーマに沿って本（または他のメディア）を読み、ゆるくおしゃべりするコミュニティです。
+email: nhgc36@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: OSYABERI BOOKS
 url: http://example.com
