@@ -1,9 +1,9 @@
 actors:
-  alice:
+  nhgc:
     image_url: /images/actors/nhgc.jpg
     name: nhgc
     url: https://twitter.com/n_hgc36
-  bob:
+  shimmei:
     image_url: //images/actors/shimmei.jpg
     name: shimmei
     url: https://twitter.com/Sony_Shimmei
