@@ -1,15 +1,15 @@
 actors:
   alice:
-    image_url: https://twitter.com/n_hgc36/photo
+    image_url: /images/actors/nhgc.jpg
     name: nhgc
     url: https://twitter.com/n_hgc36
   bob:
-    image_url: https://twitter.com/Sony_Shimmei/photo
-    name: shinmei
+    image_url: /images/actors/shimmei.jpg
+    name: shimmei
     url: https://twitter.com/Sony_Shimmei
 author: nhgc
 description: OSYABERI BOOKSの活動や読んだ本、輪読会のまとめなどをゆるく発信しています。
-description_long: OSYABERI BOOKSは、サラリーマン・博士・AIエンジニアなど様々なバックグラウンドの人がテーマに沿って本（または他のメディア）を読み、ゆるくおしゃべりするコミュニティです。
+description_long: OSYABERI BOOKSは、サラリーマン・博士・AIエンジニアなど様々なバックグラウンドの人がテーマに沿って本（または他のメディア）を読み、ゆるくおしゃべりするコミュニティ
 email: nhgc36@gmail.com
 exclude:
   - docker
@@ -20,9 +20,9 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: OBbooks
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: books,輪読,読書,コミュニティ
 language: ja
 markdown: kramdown
 permalink: /episode/:title
