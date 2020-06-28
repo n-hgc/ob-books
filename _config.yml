@@ -1,6 +1,6 @@
 actors:
   alice:
-    image_url: //images/actors/nhgc.jpg
+    image_url: /images/actors/nhgc.jpg
     name: nhgc
     url: https://twitter.com/n_hgc36
   bob:
